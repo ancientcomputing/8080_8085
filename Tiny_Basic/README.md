@@ -10,8 +10,8 @@ The advantage of this set up is that you don't need any peripherals. Just add me
 <p>
 Other hardware assumptions:<br>
 1. 6.144MHz crystal frequency (actual CPU clock is 1/2 of that)
-2. 32KB of ROM
-3. 32KB of RAM
+<br>2. 32KB of ROM
+<br>3. 32KB of RAM
 <p>
 The source code was built with the asmx cross assembler running on a Mac.
 <p>
